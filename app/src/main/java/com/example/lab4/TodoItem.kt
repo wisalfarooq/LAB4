@@ -1,6 +1,7 @@
 package com.example.lab4
 
 data class TodoItem(
-    val text: String,
-    val isUrgent: Boolean
+    val id: Long,           // Database ID
+    val text: String,       // Task description
+    val isUrgent: Boolean   // Priority flag
 )

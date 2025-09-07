@@ -8,4 +8,5 @@
     <string name="delete_dialog_message">The selected row is: %d</string>
     <string name="yes">Yes</string>
     <string name="no">No</string>
+    <string name="delete_confirm">Delete this task permanently?</string>
 </resources>
